@@ -104,5 +104,5 @@ function fn_saveAppointments(self){
 }
 
 function fn_test(self){
-	alert("Easy to implement"); 
+	alert("Easy to implement,But I am sorry for this, I didn't do more"); 
 }
