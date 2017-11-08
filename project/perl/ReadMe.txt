@@ -1,6 +1,7 @@
-﻿This application uses eclipse development environment.
+﻿This application uses eclipse.
 
-Add tools in your eclipse(use url：http://www.epic-ide.org/updates/testing)
+Add the tools in your eclipse. 
+(use url：http://www.epic-ide.org/updates/testing)
 
 To clear the data，directly detele the appointments.db,
 
