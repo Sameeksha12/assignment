@@ -1,7 +1,7 @@
-﻿this application use eclipse develop
+﻿This application uses Eclipse.
 
-add the tools in your eclipse use url：http://www.epic-ide.org/updates/testing
+Add the tools in your eclipse. Use url：http://www.epic-ide.org/updates/testing
 
-if you want to clear the data，directly detele the appointments.db,
+If you want to clear the data，directly detele the appointments.db,
 
-after run the InitDataBase.pl,you can get a new SQLite database named "appointments.db"
+After runnning the InitDataBase.pl,you can get a new SQLite database named "appointments.db"

@@ -1,7 +1,7 @@
 #!C:\xampp\perl\bin\perl.exe
 #execute only
 
-#author: Sameeksha Sen  Email:sameeksha.thakuri431@gmail.com
+#author: Sameeksha Sen Thakuri Email:sameeksha.thakuri431@gmail.com
 
 use strict;
 use warnings;

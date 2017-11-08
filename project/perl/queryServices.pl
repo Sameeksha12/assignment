@@ -1,5 +1,5 @@
 #!D:\xampp\perl\bin\perl.exe
-#author: Sameeksha Sen  Email:sameeksha.thakuri431@gmail.com
+#author: Sameeksha Sen Thakuri Email:sameeksha.thakuri431@gmail.com
 use strict;
 use warnings;
 use JSON qw( encode_json decode_json);
