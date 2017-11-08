@@ -1,7 +1,7 @@
 /**
  * EasyUI for jQuery 1.5.3
  * 
- * author:Sameeksha Sen Thakuri
+ * author:Sameeksha Sen
  *
  */
 
